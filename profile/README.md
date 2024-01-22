@@ -1,12 +1,7 @@
-## Hi there 👋
+# Sui Pay 💧🌎
+Sui Pay is a mobile App that enables you to earn a passive income on Sui and provides you an easy way to spend your Crypto in your
+daily transactions. 
 
-<!--
+## Earn on Sui, Spend Anywhere. 
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+![Sui Pay - Earn on Sui, Spend Anywhere.](sui_pay.png "Sui Pay Mobile App")
